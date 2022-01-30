@@ -4,5 +4,5 @@ def Add(a, b):
 def SayHello():
         print("Hello World!")
 
-if __name__ == '__cd main__':
+if __name__ == '__main__':
         SayHello()
